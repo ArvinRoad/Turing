@@ -1,0 +1,10 @@
+# Porject
+.vs/
+bin/
+bin-int/
+
+# user
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.sln
