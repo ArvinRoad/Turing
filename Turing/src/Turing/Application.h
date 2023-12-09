@@ -17,5 +17,6 @@ namespace Turing
 
 	/* 定义于客户端 */
 	Application* CreateApplication();
+	void TestLog();
 }
 #endif

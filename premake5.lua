@@ -21,6 +21,7 @@ project "Turing"
 	includedirs
 	{
 		"%{prj.name}/vendor/spdlog/include",
+		"%{prj.name}/src",
 		"%{prj.name}/src/Turing"
 	}
 
