@@ -1,7 +1,7 @@
 ﻿#ifndef __APPLICATION_H__
 #define __APPLICATION_H__
 
-#include "Core.h"
+#include <Core.h>
 
 namespace Turing
 {

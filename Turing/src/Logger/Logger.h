@@ -2,7 +2,6 @@
 #define __LOGGER_H__
 
 #include <Core.h>
-#include <memory.h>
 
 #include "spdlog/spdlog.h"
 #include "spdlog/sinks/stdout_color_sinks.h"

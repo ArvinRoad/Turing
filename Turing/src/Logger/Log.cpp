@@ -1,8 +1,5 @@
-﻿#include "Log.h"
-
-#include <vector>
-#include <stdarg.h>
-#include <Windows.h>
+﻿#include "trpch.h"
+#include "Log.h"
 
 namespace Turing
 {
