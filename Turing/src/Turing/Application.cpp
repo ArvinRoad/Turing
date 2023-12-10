@@ -1,4 +1,5 @@
-﻿#include "Application.h"
+﻿#include "trpch.h"
+#include "Application.h"
 
 namespace Turing
 {
